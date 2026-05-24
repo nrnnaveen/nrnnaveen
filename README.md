@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=M.%20NAVEEN&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descColor=ffffff&descSize=18"/>
+<img width="100%" src=" Naveen.png
+type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=M.%20NAVEEN&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descColor=ffffff&descSize=18"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Naveen+%F0%9F%91%8B;Aspiring+Data+Engineer+%F0%9F%9A%80;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Scalable+Data+Systems+%F0%9F%8F%97%EF%B8%8F;Python+%7C+SQL+%7C+PostgreSQL+%7C+IoT+%F0%9F%94%A5" alt="Typing SVG" /></a>
