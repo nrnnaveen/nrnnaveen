@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src=" Naveen.png
+<img width="100%" src=" Naveen.png"
 type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=M.%20NAVEEN&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descColor=ffffff&descSize=18"/>
 
 <!-- TYPING SVG -->
