@@ -222,11 +222,11 @@ An exploratory project integrating **Generative AI capabilities** to produce int
 
 | 🌟 Achievement | 📝 Details |
 |:---|:---|
-| 🎤 **Orator's Club** | Active Member — Sharpening communication & leadership skills |
-| 💻 **Byte-Bash-Blitz** | Basher — Competitive coding participant |
+| 💻 **Byte-Bash-Blitz** | Basher |
 | 📊 **Data Refinery Contest (D.I.A)** | Participated in data challenge competition |
 | 🔬 **IIC Hack & NimirnthuNil Hack** | Participated in Innovation & Hackathon events |
 | 🤖 **AI Expo & Hackathon 2k25** | Participant — showcasing AI innovation projects |
+| 🎤 **Orator's Club** | Active Member — Sharpening communication & leadership skills |
 
 ---
 
