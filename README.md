@@ -2,7 +2,7 @@
 
 <!-- ANIMATED BANNER -->
 <div align="center">
-  <img src="Naveen.png" alt="M. Naveen" width="200" style="border-radius: 15px; border: 2px solid #30363d; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);">
+  <img src="BANNER.png" alt="M. Naveen" width="200" style="border-radius: 15px; border: 2px solid #30363d; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);">
 </div>
 
 
