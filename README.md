@@ -1,16 +1,9 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<p align="center">
-  <img
-    src="./Naveen.png"
-    alt="Naveen"
-    width="180"
-    style="border-radius: 50%; border: 3px solid #00e5ff; padding: 4px; background: #0b1220;"
-  />
-</p>
-
-<h1 align="center">ASPIRING DATA ENGINEER 🤖</h1>
+<div align="center">
+  <img src="Naveen.png" alt="M. Naveen" width="180" height="180" style="border-radius: 50%; border: 3px solid #007acc; object-fit: cover; box-shadow: 0px 4px 10px rgba(0,0,0,0.25);">
+</div>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Naveen+%F0%9F%91%8B;Aspiring+Data+Engineer+%F0%9F%9A%80;AI+%26+Data+Science+Explorer+%F0%9F%A4%96;Building+Scalable+Data+Systems+%F0%9F%8F%97%EF%B8%8F;Python+%7C+SQL+%7C+PostgreSQL+%7C+IoT+%F0%9F%94%A5" alt="Typing SVG" /></a>
