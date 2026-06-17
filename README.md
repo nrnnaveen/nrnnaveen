@@ -218,20 +218,7 @@ An exploratory project integrating **Generative AI capabilities** to produce int
 
 ---
 
-<!-- ACHIEVEMENTS -->
-<div align="center">
-<h2>🏆 Achievements & Activities</h2>
-</div>
 
-| 🌟 Achievement | 📝 Details |
-|:---|:---|
-| 💻 **Byte-Bash-Blitz** | Basher |
-| 📊 **Data Refinery Contest (D.I.A)** | Participated in data challenge competition |
-| 🔬 **IIC Hack & NimirnthuNil Hack** | Participated in Innovation & Hackathon events |
-| 🤖 **AI Expo & Hackathon 2k25** | Participant — showcasing AI innovation projects |
-| 🎤 **Orator's Club** | Active Member — Sharpening communication & leadership skills |
-
----
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
