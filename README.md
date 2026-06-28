@@ -38,13 +38,13 @@ class Naveen:
         self.degree       = "B.Tech – Artificial Intelligence & Data Science"
         self.batch        = "2025 – 2029"
         self.cgpa         = 8.5
-        self.location     = "Erode, Tamil Nadu, India 📍"
-        self.languages    = ["Tamil 🗣️", "English 🌐", "Telugu 🌟"]
+        self.location     = "Erode, Tamil Nadu, India "
+        self.languages    = ["Tamil ", "English ", "Telugu "]
         self.hobbies      = ["Explore New Tech 💡", "Coding Small Projects 🖥️", "Cooking 🍳"]
 
     def mission(self):
         return (
-            "🚀 Building scalable data systems & delivering impactful "
+            "Building scalable data systems & delivering impactful "
             "data-driven solutions to a reputed IT organization."
         )
 
