@@ -215,7 +215,7 @@ An exploratory project integrating **Generative AI capabilities** to produce int
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrnnaveen&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrnnaveen&layout=compact&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=nrnnaveen)" />
 
 </div>
 
