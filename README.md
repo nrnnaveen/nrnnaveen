@@ -90,12 +90,14 @@ print(me.mission())
 ### 🐍 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📐 Core Concepts
 ![Data Structures](https://img.shields.io/badge/Data%20Structure%20Design-00d4ff?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Web Designing](https://img.shields.io/badge/Web%20Designing-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
