@@ -205,20 +205,21 @@ An exploratory project integrating **Generative AI capabilities** to produce int
 
 ---
 
+
 <!-- GITHUB STATS -->
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nrnnaveen&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nrnnaveen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nrnnaveen&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=nrnnaveen&theme=tokyonight&hide_border=true" />
+<br/>
 
-<br><br>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=nrnnaveen" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrnnaveen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
 
 </div>
 
+---
 
 
 <!-- ACTIVITY GRAPH -->
