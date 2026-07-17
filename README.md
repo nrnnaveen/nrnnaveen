@@ -14,7 +14,7 @@
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=nrnnaveen&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-/>
+
 </div>
 
 ---
